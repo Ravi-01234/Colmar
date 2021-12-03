@@ -1,0 +1,47 @@
+p {
+ font-size: 50px;
+ padding-left: 20px;
+ padding-top: 10px;
+ padding-bottom: 20px;
+}
+.col a {
+	font-size: 20px;
+}
+.row3 img {
+	width: 60%;
+	padding-left: 24px;
+	padding-top: 32px;
+}
+.r6 div img {
+	width: 375px;
+}
+.c3 .r1 h1 {
+	padding-top: 32px ;
+	padding-left: 550px;
+	padding-bottom: 32px;
+}
+.c3 .r2 .img1 {
+	width: 393px;
+	height: 250px;
+}
+.c3 .r2 .img2 {
+	width: 402px;
+	height: 250px;
+}
+.c3 .r2 .img3 {
+	width: 393px;
+	height: 250px;
+}
+
+.c3 .r3 .img1 {
+	width: 393px;
+	height: 250px;
+}
+.c3 .r3 .img2 {
+	width: 402px;
+	height: 250px;
+}
+.c3 .r3 .img3 {
+	width: 393px;
+	height: 250px;
+}
