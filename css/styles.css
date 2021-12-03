@@ -45,3 +45,11 @@ p {
 	width: 393px;
 	height: 250px;
 }
+.c4 .r1 h1 {
+	padding-top: 32px ;
+	padding-left: 550px;
+	padding-bottom: 32px;
+}
+.c4{
+	box-sizing: border-box;
+}
